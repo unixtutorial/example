@@ -1,2 +1,2 @@
-# example
-Examples of Unix/Linux commands
+# Initial page
+
