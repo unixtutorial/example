@@ -4,6 +4,11 @@ description: Examples of Unix/Linux commands
 
 # Unix Tutorial: Examples
 
+### Time and Date Commands
+
+* **date** - show current date and time in any format you like
+* **uptime** - report system stats since last reboot or power on
+
 ### Working with Files and Directories
 
 * **ls** - list files/directories
