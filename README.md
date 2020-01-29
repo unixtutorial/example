@@ -4,9 +4,10 @@ description: Examples of Unix/Linux commands
 
 # Unix Tutorial: Examples
 
+Hi! I'm [Gleb Reys](https://gleb.reys.net) and this is my page for collecting examples of Unix/Linux commands in addition to [**Unix Tutorial**](https://www.unixtutorial.org) website.
 ### Time and Date Commands
 
-* **date** - show current date and time in any format you like
+* [**date**](date.md) - show current date and time in any format you like
 * [**uptime**](uptime.md) - report system stats since last reboot or power on
 
 ### Working with Files and Directories
