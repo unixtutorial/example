@@ -19,6 +19,10 @@ Hi! I'm [Gleb Reys](https://gleb.reys.net) and this is my page for collecting ex
 * **chmod** - change access permissions
 * **chown** - change ownership of a file or directory
 
+###Disk Usage
+* **du** - show disk space consumed by a file or directory
+* **df** - show disk usage (free space and inodes)
+
 Project by [**Unix Tutorial**](https://www.unixtutorial.org)
 
 
